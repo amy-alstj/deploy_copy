@@ -37,5 +37,6 @@ tqdm>=4.62.3  # Downgraded to version 4.62.3 to avoid conflicts
 transformers>=4.10.3  # Changed to a lower version since 4.38.2 might not be compatible with all dependencies
 typing_extensions>=4.10.0
 tzdata>=2024.1
-uritemplate==4.1.1
-urllib3==1.26.7  # Changed to a lower version since 2.2.1 might not be compatible with all dependencies
+uritemplate>=4.1.1
+urllib3>=1.26.7  # Changed to a lower version since 2.2.1 might not be compatible with all dependencies
+whitenoise>=5.3.0
