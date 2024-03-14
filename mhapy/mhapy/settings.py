@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'd2.cx4esae0ebe0.ca-central-1.rds.amazonaws.com', 
     '127.0.0.1', 
-    'deploy-production-9524.up.railway.app' 
+    'deploy-production-9524.up.railway.app', 
 ]
 
 # Application definition
