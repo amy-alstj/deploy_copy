@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure--dw2sw4h3%lxc*xn&2cjk%skjg)s-5%+(b2pti&&^+2^4$0y&%
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'deploycopy-production.up.railway.app', 
     'deploy-production-9524.up.railway.app', 
     'd2.cx4esae0ebe0.ca-central-1.rds.amazonaws.com', 
     '127.0.0.1', 
